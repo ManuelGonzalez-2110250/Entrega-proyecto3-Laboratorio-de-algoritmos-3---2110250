@@ -4,8 +4,10 @@
 Antes de nada, se debe crear un archivo de nombre **"atlantis.txt"** que se encuentre en la misma carpeta dónde se encuentren los archivos descargados. Luego se debe ejecutar el CMD en la carpeta dónde está descargado el archivo, luego se usa el comando **"make"** para compilar el archivo. Una vez se compile se ejecuta usando el comando **./runMundoChiquito.sh**. El archivo *"atlantis.txt"* es una matriz de números de dimensión n x m similar al siguiente ejemplo:
 
 >3 3 4 4 4 2
-3 1 3 2 1 4
-7 3 1 6 4 1
+
+>3 1 3 2 1 4
+
+>7 3 1 6 4 1
 
 
 ##Para el diseño de la funciones:
